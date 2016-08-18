@@ -1,0 +1,17 @@
+{
+    "name": "fugazone-googlefont",
+    "license": "OFL",
+    "authors": [
+        "LatinoType"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/fugazone-bower.git"
+    },
+    "description": "Fugaz One font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
